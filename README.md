@@ -44,7 +44,7 @@ npm start
 or simply open the `index.html` file in your browser if it's a static site.
 
 
-*🌟 Why TaskFlow?
+* 🌟 Why TaskFlow?
 
 I built "TaskFlow" because I wanted something simple — no logins, no clutter, just tasks.
 It’s lightweight, fast, and looks good doing it. Perfect for personal productivity or as a base project to build something bigger.
